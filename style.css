@@ -110,6 +110,7 @@ input {
 #footerText{
     width: 200px;
     text-align: end;
+    flex: auto;
 }
 footer {
     display: flex;
