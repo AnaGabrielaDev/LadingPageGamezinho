@@ -1,0 +1,1 @@
+document.getElementById("email").placeholder = "Your Email address";
